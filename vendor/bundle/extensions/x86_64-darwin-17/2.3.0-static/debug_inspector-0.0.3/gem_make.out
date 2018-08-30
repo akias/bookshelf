@@ -1,0 +1,15 @@
+current directory: /Users/saika/Documents/kadai/bookshelf/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/saika/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20180830-24765-z6wmcw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/saika/Documents/kadai/bookshelf/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/saika/Documents/kadai/bookshelf/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/saika/Documents/kadai/bookshelf/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20180830-24765-vj1z9n
